@@ -6,7 +6,16 @@
             <a href="/">HOME</a>
         </li>
         <li>
-            <a href="/about">ABOUT QUID GAME</a>
+            <a href="/characters/oh-il-nam">OH IL-NAM</a>
+        </li>
+        <li>
+            <a href="/characters/kang-sae-byeok">KANG SAE-BYEOK</a>
+        </li>
+        <li>
+            <a href="/characters/seong-gi-hun">SEONG GI-HUN</a>
+        </li>
+        <li>
+            <a href="/about">ABOUT SQUID GAME</a>
         </li>
     </ul>
 </nav>
