@@ -6,6 +6,9 @@
             <a href="/">HOME</a>
         </li>
         <li>
+            <a href="/actors">ACTORS</a>
+        </li>
+        <li>
             <a href="/characters/oh-il-nam">OH IL-NAM</a>
         </li>
         <li>

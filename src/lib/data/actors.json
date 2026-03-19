@@ -1,0 +1,26 @@
+[
+  {
+    "id": "lee-jung-jae",
+    "actor": "Lee Jung-jae",
+    "character": "Seong Gi-hun",
+    "playerNumber": "456",
+    "description": "A South Korean acting legend who began his career as a fashion model before becoming one of Asia's most successful actors. Known for starring in acclaimed films including 'The Thieves' and 'Hunt,' Lee achieved international stardom with his iconic role in Squid Game, becoming the first Asian male actor to win an Emmy for an acting role.",
+    "image": "/images/SeongGi-hun.jpg"
+  },
+  {
+    "id": "jung-ho-yeon",
+    "actor": "Jung Ho-yeon",
+    "character": "Kang Sae-byeok",
+    "playerNumber": "218",
+    "description": "A globally-recognized supermodel who made her acting debut in Squid Game, becoming the breakout star of the series. Before her acting career, she was a Louis Vuitton exclusive model and built an international fashion portfolio walking in shows for Chanel, Fendi, and other top designers. Her win at the SAG Awards made history alongside co-star Lee Jung-jae.",
+    "image": "/images/HoYeonJung.jpg"
+  },
+  {
+    "id": "o-yeong-su",
+    "actor": "O Yeong-su",
+    "character": "Oh Il-nam",
+    "playerNumber": "218",
+    "description": "An acclaimed theatre veteran with over 50 years on stage, having appeared in more than 200 theatrical productions spanning from classic Shakespeare to contemporary works. O is a decorated actor who has won multiple theatre awards, and made his breakthrough to international recognition through his powerful performance in Squid Game at age 77.",
+    "image": "/images/Oh_Il-nam.jpg"
+  }
+]
